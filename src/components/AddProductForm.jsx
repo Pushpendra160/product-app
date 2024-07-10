@@ -1,4 +1,4 @@
-// src/AddProductForm.js
+
 import React, { useState, useContext } from 'react';
 import { ProductContext } from '../context/ProductContext';
 import '../styles/addproductform.css'
